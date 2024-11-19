@@ -9,6 +9,7 @@ Layout gráfico (Permitido o uso de Window Builder no Eclipse) - 2,0 pontos
 
 Acesso a um banco de dados (preferência PostgreSQL) - 2,0 pontos
       ```sql
+      
         CREATE TABLE bicho (
             idBicho serial,
             nome text,
