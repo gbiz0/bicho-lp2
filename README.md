@@ -8,9 +8,9 @@ Layout gráfico (Permitido o uso de Window Builder no Eclipse) - 2,0 pontos
 - Netbeans - Java Swing
 
 Acesso a um banco de dados (preferência PostgreSQL) - 2,0 pontos
-      ```sql
+      ``` sql      
       
-        CREATE TABLE bicho (
+      CREATE TABLE bicho (
             idBicho serial,
             nome text,
             CONSTRAINT pk_bicho PRIMARY KEY (idBicho)
